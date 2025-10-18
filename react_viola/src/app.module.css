@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  position: relative;
+  width: 1240px;
+  margin: auto;
+  font-family: sans-serif;
+  background-color: #b9541e;
+}
+
+
+
